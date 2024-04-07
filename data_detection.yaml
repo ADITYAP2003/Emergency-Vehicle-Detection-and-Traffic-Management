@@ -1,0 +1,4 @@
+train: C:\Emergency Vehicle Detection\train 
+val: C:\Emergency Vehicle Detection\val
+nc: 2
+names: ["ambulance","fire truck"]
