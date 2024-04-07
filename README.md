@@ -99,3 +99,5 @@
 8. **Counting vehicle**
    - for counting vehicle copy code from "count.py" replace video link by your and run
    - dont use sampleA2.mp4 as it has different frame insteat use sampleA1.m4
+
+<img src="https://github.com/ADITYAP2003/Emergency-Vehicle-Detection-and-Traffic-Management/assets/125755687/e73349a9-cc36-45d7-994b-d4a91c04efde">
